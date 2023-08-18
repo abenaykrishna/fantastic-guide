@@ -1,0 +1,2 @@
+how to add a file to git repository
+
